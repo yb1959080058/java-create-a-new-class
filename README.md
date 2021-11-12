@@ -15,6 +15,9 @@
 
 </details>
 
+<details open='true'>
+  <summary>English</summary>
+
 # Basic Structure of Java Program: Create a Class
 
 ## Challenge
@@ -27,3 +30,4 @@
 Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/bytelegend/Cat.java`
+</details>
