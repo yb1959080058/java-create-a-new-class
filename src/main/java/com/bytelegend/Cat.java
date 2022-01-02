@@ -1,3 +1,5 @@
+package com.bytelegend;
+
 public class Cat {
 //    String breed;
    int age;
