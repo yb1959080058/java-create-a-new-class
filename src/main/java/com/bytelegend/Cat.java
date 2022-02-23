@@ -1,4 +1,4 @@
-package cats;
+package bytelegened;
 
 public class Cat {
 }
