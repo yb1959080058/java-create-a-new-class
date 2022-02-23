@@ -1,2 +1,4 @@
+package cats;
+
 public class Cat {
 }
