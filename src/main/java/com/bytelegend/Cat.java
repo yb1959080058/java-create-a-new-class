@@ -1,3 +1,1 @@
-public class Cat {
-    public Cat() {}
-}
+public class Cat {}
