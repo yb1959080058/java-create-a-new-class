@@ -1,4 +1,1 @@
-class Cat {
-  // fields
-  // methods
-}
+class Cat
