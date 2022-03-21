@@ -1,3 +1,6 @@
+package com.bytelegend;
+
 public class Cat {
-  int x = 5;
+    Cat cat1;
+    Cat cat2;
 }
