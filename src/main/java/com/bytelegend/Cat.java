@@ -1,5 +1,4 @@
 package com.bytelegend;
 
-
-public class CatTest {
+public class Cat {
 }
