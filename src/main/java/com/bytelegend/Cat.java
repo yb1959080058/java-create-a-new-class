@@ -1,5 +1,5 @@
 public class Cat {
-    public cat() {
+    public Cat() {
 
     }
 }
