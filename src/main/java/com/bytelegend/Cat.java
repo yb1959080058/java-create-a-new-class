@@ -1,6 +1,11 @@
+package com.bytelegend;
+
 public class Cat {
     private String name;
     private int age;
+
+    Cat(){
+    }
 
     void setName(String name){
         this.name = name;
