@@ -11,7 +11,7 @@ public class Cat {
     void setAge(int age){
         this.age = age;
     }
-    String getAge(){
+    int getAge(){
         return this.age;
     }
 }
