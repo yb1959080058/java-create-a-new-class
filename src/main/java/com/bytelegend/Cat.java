@@ -1,3 +1,3 @@
-public Class Cat{
-    
-}
+package com.bytelegend;
+
+public class  Cat{}
