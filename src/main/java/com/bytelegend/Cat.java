@@ -1,2 +1,2 @@
 package com.bytelegend;
-Class cat{}
+Class Cat{}
