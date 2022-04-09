@@ -1,2 +1,4 @@
 package com.bytelegend;
-public Class Cat{}
+
+public class Cat{
+}
