@@ -1,8 +1,4 @@
 
+public class Cat {
 
-public class CatTest {
-
-    public void testNewCat() {
-        new Cat();
-    }
 }
