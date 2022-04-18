@@ -5,7 +5,7 @@ public class Cat{
         cat.age = 10;
     }
 }
-public class Cat {
+class Cat {
     String name;
     int age;
 }
