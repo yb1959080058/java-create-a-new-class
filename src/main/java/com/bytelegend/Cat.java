@@ -1,10 +1,9 @@
 public class Cat{
-    public static void main(String[] args){
-        Cat cat = new Cat();
 
+    Cat(){
+        
     }
+    
 }
-class TestCat {
-    String name;
-    int age;
-}
+
+ 
