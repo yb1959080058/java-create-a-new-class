@@ -1,5 +1,5 @@
-public class Cat{
-
-
-    
+class T{
+    public class Cat{
+   
+    }
 }
