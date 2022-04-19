@@ -1,6 +1,5 @@
-public class Cat{
+public class Cat {
     //d
-    void Cat(){
-        
+    void ass(){
     }
-}
+  }
