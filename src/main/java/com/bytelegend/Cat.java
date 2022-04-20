@@ -1,3 +1,3 @@
 public class Cat {
-  public weight;
+  public int weight;
   }
