@@ -1,4 +1,5 @@
-public static class  Cat(){
+package com.bytelegend;
 
+public  class  Cat{ 
 
 }
