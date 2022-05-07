@@ -1,3 +1,3 @@
 package com.byteblend;
 
-public class Cat {}
+public class Cat { }
