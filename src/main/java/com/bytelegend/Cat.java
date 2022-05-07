@@ -1,5 +1,5 @@
-package com.byteblend;
+package com.com.bytelegend;
 
 public class Cat { 
-    
+
 }
