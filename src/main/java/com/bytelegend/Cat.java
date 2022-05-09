@@ -1,5 +1,3 @@
-public class Cat {
-    public void main() {
+class Cat {
 
-    }
 }
