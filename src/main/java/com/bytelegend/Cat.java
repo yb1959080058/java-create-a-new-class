@@ -1,1 +1,5 @@
-public cat.java
+public com.bytelegend;
+
+    public class Main {
+
+    }
