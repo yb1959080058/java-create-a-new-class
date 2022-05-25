@@ -1,5 +1,10 @@
-public com.bytelegend;
+package com.bytelegend;
 
-    public class Main {
+import org.junit.jupiter.api.Test;
 
+public class CatTest {
+    @Test
+    public void testNewCat() {
+        new Cat();
     }
+}
