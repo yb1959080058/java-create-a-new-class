@@ -1,6 +1,8 @@
 package com.bytelegend;
-public class cat {
+public class Cat {
     public static void main (String[] args){
+        
+
 
     }
 
