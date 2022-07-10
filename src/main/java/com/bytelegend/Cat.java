@@ -1,7 +1,6 @@
 package com.bytelegend;
 
 public class Cat {
-	Cat () {
-		
+	Cat () {	
 	}
 }
