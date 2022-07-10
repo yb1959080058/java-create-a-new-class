@@ -1,3 +1,5 @@
 package com.bytelegend;
 
-public class Cat {}
+public class Cat {
+    System.out.println(“Hello World.")
+}
