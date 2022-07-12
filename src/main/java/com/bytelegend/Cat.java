@@ -1,5 +1,7 @@
 package com.bytelegend;
 
 public class Cat {
-    Cat cat = new Cat();
+    public static void main(String[] args){
+        
+    }
 }
