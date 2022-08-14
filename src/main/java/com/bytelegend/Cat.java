@@ -1,6 +1,6 @@
-package com.bytelegend
+package com.bytelegend;
 
 class Cat{
     
-    
+
 }
