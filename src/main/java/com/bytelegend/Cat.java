@@ -2,4 +2,4 @@ package com.bytelegend;
 
 import org.juniter.api.Test;
 
-public class Cat
+public class Cat{}
