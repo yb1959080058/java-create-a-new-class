@@ -1,3 +1,3 @@
-class public cat{
-    
+class cat{
+    pass
 }
