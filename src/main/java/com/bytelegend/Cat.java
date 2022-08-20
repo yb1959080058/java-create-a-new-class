@@ -1,4 +1,4 @@
 package com.bytelenged;
 
-public class Cat {
+public class Cat { 
 } 
