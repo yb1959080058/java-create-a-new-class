@@ -1,5 +1,5 @@
-package com.bytelenged;
+package com.bytelegend;
 
 public class Cat { 
-    
+
 }
