@@ -1,6 +1,6 @@
-package src.main.java.com.bytelegend;
+package main.java.com.bytelegend;
 
 public class cat{
-    public String name;
-    public String old;
+    //public String name;
+    //public String old;
 }
