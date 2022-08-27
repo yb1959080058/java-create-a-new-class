@@ -1,4 +1,4 @@
-//package com.bytelegend;
+package src.main.java.com.bytelegend;
 
 public class cat{
     public String name;
