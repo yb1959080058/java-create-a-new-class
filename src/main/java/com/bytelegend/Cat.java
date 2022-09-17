@@ -1,4 +1,2 @@
 package com.bytelegend;
-publik class cat{
-    
-}
+publik class Cat{}
