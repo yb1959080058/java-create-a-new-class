@@ -1,3 +1,3 @@
-package com.bytelenge;
+package com.bytelengend;
 public class Cat{
 }
