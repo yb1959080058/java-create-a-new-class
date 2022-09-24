@@ -1,5 +1,3 @@
+package com.bytelenge;
 public class Cat{
-    public static void main(String arg[]){
-        
-    }
 }
