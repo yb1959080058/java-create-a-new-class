@@ -1,4 +1,4 @@
-package com.bytelegen;
+package com.bytelegend;
 public class Cat {
 
 }
