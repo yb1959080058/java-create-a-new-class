@@ -1,1 +1,1 @@
-Cat
+public class Cat { }
