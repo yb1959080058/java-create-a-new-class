@@ -1,1 +1,4 @@
-public class Main { }
+package com.bytelegend;
+
+public class Cat {
+}
