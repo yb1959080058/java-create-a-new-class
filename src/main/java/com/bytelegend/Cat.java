@@ -1,8 +1,5 @@
+package com.bytelegend;
 public class Cat {
-
-    public Cat() {
-    }
-    
     public static void main(String[] args){
         System.out.println("hello cat");
     }
