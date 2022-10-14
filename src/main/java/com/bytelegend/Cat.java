@@ -1,5 +1,3 @@
-public class cat{
-    public void NewCat() {
-        new Cat();
-    }
+public class Cat{
+  
 }
