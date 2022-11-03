@@ -1,5 +1,5 @@
-public class Cat{
-    public static void main{String[] agrs}{
-            
-    }
+package com.bytelegend;
+
+public class Cat {
+
 }
