@@ -1,9 +1,7 @@
 package com.bytelegend;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api;
 
-public class  {
-    public void NewCat() {
-        new Cat();
-    }
+public class Cat {
+    
 }
