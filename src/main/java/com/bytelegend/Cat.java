@@ -1,7 +1,5 @@
 package com.bytelegend;
 
-import org.junit.jupiter.api;
+import java.util.*;
 
-public class Cat {
-    
-}
+public class Cat {}
