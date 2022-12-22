@@ -1,3 +1,6 @@
 public class Cat {
-    int x = 69;
+    String name;
+    String breed;
+    int age;
+    String color;
 }
