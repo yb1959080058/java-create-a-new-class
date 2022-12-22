@@ -1,3 +1,3 @@
-public class Cat {
-    int x = 69
+public class Main {
+    int x = 5
 }
