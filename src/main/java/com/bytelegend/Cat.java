@@ -1,3 +1,5 @@
-package com.bytelegend.pet;
+package com.bytelegend;
 
-public class Cat {}
+public class Cat {
+
+}
