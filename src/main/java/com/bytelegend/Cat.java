@@ -1,4 +1,4 @@
-package com.bytelegend.pet1;
+package com.bytelegend;
 
 public class Cat { 
 
