@@ -1,8 +1,7 @@
  package com.bytelegend;
 
- public class {
+ public class Cat {
      public void main() {
          new Cat();
      }
  }
- 
