@@ -1,4 +1,4 @@
-public static class Cat{                                
+public static class Cat {                                
 
 
 
