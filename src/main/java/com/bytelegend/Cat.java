@@ -1,4 +1,4 @@
-public class Cat{
+public class cat{
     public static void main(){
         return null;
     }
