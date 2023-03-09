@@ -1,1 +1,1 @@
-PUBLIC Class Cat{}
+PUBLIC class Cat{};
