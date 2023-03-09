@@ -1,5 +1,1 @@
-public class cat{
-    public static void main(){
-        return null;
-    }
-}
+public class Cat{}
