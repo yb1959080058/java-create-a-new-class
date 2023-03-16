@@ -1,3 +1,3 @@
-public class Hello_world{
-    
+public class Cat{
+
 }
