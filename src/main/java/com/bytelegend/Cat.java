@@ -1,1 +1,1 @@
-public class{}
+public class Hello_world{}
