@@ -1,3 +1,6 @@
 public class Cat {
-    public String name;
+    public String name(){
+        new Cat();
+    }
+    
 }
