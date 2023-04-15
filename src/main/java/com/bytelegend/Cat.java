@@ -1,5 +1,5 @@
-public class Cat{
-public void name() {
-    new Cat();
-}
+package com.bytelegend;
+
+public class Cat {
+    public String name;
 }
