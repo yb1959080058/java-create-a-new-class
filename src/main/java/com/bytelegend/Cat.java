@@ -1,6 +1,5 @@
-public class Cat {
-    public String name(){
-        new Cat();
-    }
-    
+public class Cat{
+public void name() {
+    new Cat();
+}
 }
