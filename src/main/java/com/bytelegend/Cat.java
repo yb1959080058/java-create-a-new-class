@@ -1,4 +1,4 @@
-import java.io.*;
+import com.bytelegend.*;
 
 public class Cat {
 }
