@@ -1,1 +1,1 @@
-record Cat()
+record Cat() {}
