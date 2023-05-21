@@ -1,1 +1,4 @@
-class Cat
+package com.bytelegend;
+class Cat {
+
+}
